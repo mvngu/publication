@@ -1,2 +1,3 @@
-# publication
-My publications
+# Publications
+
+My academic publications.
